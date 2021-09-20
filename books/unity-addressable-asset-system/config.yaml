@@ -1,0 +1,7 @@
+title: "Unity Addressable Asset system マニュアル"
+summary: "Unity Addressable Asset system マニュアルの日本語訳版です。"
+topics: [Unity, c#, Addressable]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters: []
